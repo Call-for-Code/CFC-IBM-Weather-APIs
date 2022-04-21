@@ -49,7 +49,7 @@ Once you have the API Key you can make a GET request to the required API.
 
 **Example:**
 
-Curl request for 3 day daily forecast
+Curl GET request for 3 day daily forecast API
 
 ```curl
 curl -X GET "https://api.weather.com/v3/wx/forecast/daily/3day?geocode=33.74,-84.39&format=json&units=m&language=en-US&apiKey=yourApiKey" -H "accept: application/json"
