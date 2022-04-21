@@ -57,4 +57,4 @@ curl -X GET "https://api.weather.com/v3/wx/forecast/daily/3day?geocode=33.74,-84
 
 ### Join Slack
 
-Please join **_#twc-api_** channel in the [Call for Code](https://callforcode.typeform.com/to/Ow3xQr?typeform-source=github.com) slack workspace to post any questions and learn more about the APIs.
+Please join **_#twc-api_** channel in the **[Call for Code](https://callforcode.typeform.com/to/Ow3xQr?typeform-source=github.com)** slack workspace to post any questions and learn more about the APIs.
