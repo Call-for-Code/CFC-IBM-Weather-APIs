@@ -1,10 +1,10 @@
-# Call for Code: IBM Environment Intelligence Suite Weather Data
+# Call for Code: The Weather Company APIs
 
 Weather is a natural phenomenon that cannot be controlled but can be predicted so that we can be prepared and reduce its impact by creating technological solutions.
 
 Weather plays a significant role in climate change which affects the ecological environment like shortage of water, ecosystem degradation, soil erosion and reduction in biodiversity. It also causes natural disasters like hurricanes, flooding, droughts, earthquakes, etc.
 
-**[Call for Code](https://callforcode.org/)** invites participants to utilize the **[IBM Environmental Intelligence Suite (EIS) Weather Data APIs](https://www.ibm.com/products/environmental-intelligence-suite)** to predict, prepare and build great solutions using technology. The Weather Data APIs are free for the Call for Code participants until **1st December 2022**.
+**[Call for Code](https://callforcode.org/)** invites participants to utilize **The Weather Company Data APIs** offered as **[IBM Environmental Intelligence Suite (EIS) package](https://www.ibm.com/products/environmental-intelligence-suite)** to predict, prepare and build great solutions using technology. The Weather Data APIs are free for the Call for Code participants until **1st December 2022**.
 
 **[IBM Environmental Intelligence Suite Weather Data APIs](https://www.ibm.com/products/environmental-intelligence-suite)** give deeper and broader insights into current and long-term forecasted conditions, seasonal and sub-seasonal forecasts, lifestyle indices, severe weather and historical weather data.
 
