@@ -1,4 +1,4 @@
-# Call for Code: The Weather Company APIs
+# Call for Code: IBM Environmental Intelligence Suite APIs
 
 Weather is a natural phenomenon that cannot be controlled but can be predicted so that we can be prepared and reduce its impact by creating technological solutions.
 
@@ -43,7 +43,7 @@ Please visit the **[Premium APIs documentation](https://docs.google.com/document
 
 To access and use the Weather APIs you will require an API Key as a parameter when requesting an API.
 
-Please request an **[API key here](https://developer.ibm.com/callforcode/tools/weather/)**. Please read the terms and conditions carefully before requesting the API key, although the APIs are globally accessible they are restricted to use in some countries.
+Please request an **[API key here](https://airtable.com/appH4Pgp5VwbNsunH/pag1e1VDzOkT7bxFD/form)**. Please read the terms and conditions carefully before requesting the API key, although the APIs are globally accessible they are restricted to use in some countries.
 
 Once you have the API Key you can make a GET request to the required API.
 
