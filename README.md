@@ -4,7 +4,7 @@ Weather is a natural phenomenon that cannot be controlled but can be predicted s
 
 Weather plays a significant role in climate change which affects the ecological environment like shortage of water, ecosystem degradation, soil erosion and reduction in biodiversity. It also causes natural disasters like hurricanes, flooding, droughts, earthquakes, etc.
 
-**[Call for Code](https://developer.ibm.com/callforcode/)** invites participants to utilize **The Weather Company Data APIs** offered as **[IBM Environmental Intelligence Suite (EIS)](https://www.ibm.com/products/environmental-intelligence-suite)** to predict, prepare and build great solutions using technology. The Weather Data APIs are free for the Call for Code participants until **the end of each Global Challenge Round**.
+**[Call for Code](https://developer.ibm.com/callforcode/)** invites participants to utilize **[IBM Environmental Intelligence Suite (EIS)](https://www.ibm.com/products/environmental-intelligence-suite)** APIs to predict, prepare and build great solutions using technology. The EIS APIs are free for the Call for Code participants until **the end Global Challenge**.
 
 **[IBM Environmental Intelligence Suite Weather Data APIs](https://www.ibm.com/products/environmental-intelligence-suite)** give deeper and broader insights into current and long-term forecasted conditions, seasonal and sub-seasonal forecasts, lifestyle indices, severe weather and historical weather data.
 
